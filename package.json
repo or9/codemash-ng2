@@ -1,0 +1,27 @@
+{
+  "name": "codemash-ng2",
+  "version": "0.0.1",
+  "description": "prototype angular 2 app",
+  "main": "app/index.html",
+  "scripts": {
+    "test": "test",
+    "start": "python -m SimpleHTTPServer"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/or9/codemash-ng2.git"
+  },
+  "keywords": [
+    "test",
+    "prototype",
+    "angular",
+    "angular",
+    "2"
+  ],
+  "author": "durmon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/or9/codemash-ng2/issues"
+  },
+  "homepage": "https://github.com/or9/codemash-ng2#readme"
+}
