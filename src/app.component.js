@@ -10,7 +10,7 @@ window.app = (function (doc, app, undefined) {
 
 		Class({
 			constructor: function () {
-				this.message = "Hi.";
+				this.message = "Hi. Nice to meet you.";
 				console.log("boom. constructed. Just like that.");
 			}
 		});
